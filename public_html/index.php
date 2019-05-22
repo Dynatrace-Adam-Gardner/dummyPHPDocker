@@ -1,5 +1,5 @@
 <?
-  $pause = 1;
+  $pause = 0;
   sleep($pause);
 ?>
 <!doctype html>
