@@ -5,10 +5,10 @@
 <!doctype html>
 <html>
 <head>
-<title>Dummy PHP v1</title>
+<title>Dummy Webserver</title>
 </head>
 <body>
-<h1>Dummy PHP v1</h1>
+<h1>Dummy Webserver</h1>
 <p>Wait is <?php echo $pause; ?> second.</p>
 </body>
 </html>
