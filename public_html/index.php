@@ -1,5 +1,5 @@
 <?
-  $pause = 0;
+  $pause = 4;
   sleep($pause);
 ?>
 <!doctype html>
@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>Dummy Webserver</h1>
-<p>Wait is <?php echo $pause; ?> second.</p>
+<p>Wait is <?php echo $pause; ?> seconds.</p>
 </body>
 </html>
